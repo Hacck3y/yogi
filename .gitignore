@@ -1,0 +1,27 @@
+# Local configuration and API secrets
+.env
+
+# Python environment files
+.venv/
+venv/
+ENV/
+bin/
+lib/
+share/
+pyvenv.cfg
+
+# Python compiler caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Diagnostic scripts
+diagnose_*.py
+test_*.py
+test.txt
